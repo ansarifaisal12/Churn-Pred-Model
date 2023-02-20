@@ -5,12 +5,12 @@ This is a machine learning model that predicts whether a customer of a bank is l
 # Prerequisites
 Before running this model, make sure you have the following:
 
- Python 3.x
+ Python 3.x,
  NumPy
- Pandas
- Scikit-learn
- Matplotlib
- Seaborn
+ , Pandas
+ , Scikit-learn
+ , Matplotlib
+ , Seaborn
  You can install these packages using pip or conda. For example, to install NumPy using pip, run the following command:
 
  Copy code
